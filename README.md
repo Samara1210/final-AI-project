@@ -1,6 +1,7 @@
 # final-AI-project
-#Task:
-#Random Forest
+# Task:
+# Random Forest
+
 <br>About the data: Let’s consider a Company dataset with around 11 variables and more than 400
 records.<br>
 Problem Statement:<br>
