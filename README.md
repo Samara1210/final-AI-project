@@ -21,3 +21,4 @@ Education – Education level at each location Urban –<br>
 Urban-A factor with levels No and Yes to indicate whether the store is in an urban or rural location<br>
 US -- A factor with levels No and Yes to indicate whether the store is in the US or not<br>
 <br>You are required to model using the Random Forest
+![image11](https://github.com/Samara1210/final-AI-project/assets/73547517/ec045f8d-3795-4d39-825d-ef4de564aef7)
